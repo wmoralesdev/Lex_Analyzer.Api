@@ -52,7 +52,7 @@ public static class Dictionaries
 
     public static readonly Dictionary<string, string> Keywords = new()
     {
-        { "return", "Ends execution of a function returning control to calling fn" },
+        { "return", "Ends execution of a function" },
         { "endl", "Newline"}
     };
 
